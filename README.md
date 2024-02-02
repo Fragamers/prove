@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Azienda XYZ</h1>
+        <h1>sito tantoper</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
@@ -47,7 +47,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Azienda XYZ. Tutti i diritti riservati.</p>
+        <p>&copy; 2024 sitotantoper. Tutti i diritti riservati.</p>
     </footer>
 </body>
 </html>
